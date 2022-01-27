@@ -3,4 +3,7 @@ venv
 temp
 test
 errors
+Lib
+Scripts
+pyvenv.cfg
 .vscode
